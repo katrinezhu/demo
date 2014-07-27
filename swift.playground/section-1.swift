@@ -166,7 +166,7 @@ var numberb = 1
 swap(&numbera, &numberb)
 numbera
 numberb
-// closure lamba blocks
+// closure lambda blocks
 // sort
 var array = [ -1, 0, 2, 99, 24 ]
 sort(&array, {(a: Int, b: Int) in return a > b })
